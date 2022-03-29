@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nikisone
 - 👀 I’m interested in programming and computer networking
-- 🌱 I’m currently learning computer networking
 - 📫 How to reach me mail: o.p.pennanen@aalto.fi phone: +358 443015090
 
 <!---
